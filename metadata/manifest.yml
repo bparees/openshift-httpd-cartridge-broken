@@ -2,7 +2,7 @@ Name: httpd
 Cartridge-Short-Name: HTTPD
 Display-Name: HTTPD Cartridge
 Source-Url: https://github.com/changeme/
-Cartridge-Vendor: CustomCartridgesINC
+Cartridge-Vendor: bparees
 Description: "A httpd cartridge for development use only."
 Version: '0.1'
 License: "None"
