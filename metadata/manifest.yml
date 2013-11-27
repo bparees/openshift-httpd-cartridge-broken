@@ -5,7 +5,7 @@ Source-Url: https://github.com/changeme/
 Description: "A httpd cartridge for development use only."
 Version: '0.1'
 License: "None"
-Cartridge-Vendor: Custom Cartridges INC
+Cartridge-Vendor: CustomCartridgesINC
 Cartridge-Version: 0.0.1
 Categories:
   - service
