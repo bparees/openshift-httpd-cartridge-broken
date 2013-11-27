@@ -2,10 +2,11 @@ Name: httpd
 Cartridge-Short-Name: HTTPD
 Display-Name: HTTPD Cartridge
 Source-Url: https://github.com/changeme/
+Cartridge-Vendor: CustomCartridgesINC
 Description: "A httpd cartridge for development use only."
 Version: '0.1'
 License: "None"
-Cartridge-Vendor: CustomCartridgesINC
+Vendor: Custom Cartridges INC
 Cartridge-Version: 0.0.1
 Categories:
   - service
